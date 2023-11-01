@@ -1,0 +1,3 @@
+com\example\studentweb\StudentWebApplication.class
+com\example\studentweb\domain\Student.class
+com\example\studentweb\StudentController.class
